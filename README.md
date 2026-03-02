@@ -1,23 +1,66 @@
+<!-- Clean Static Header -->
 <h1 align="center">Hi 👋, I'm Animesh Kumar</h1>
-<h3 align="center">B.Tech Information Technology Student at National Institute of Technology Srinagar, J&K</h3>
+<h3 align="center">
+B.Tech Information Technology Student at 
+<b>National Institute of Technology Srinagar, J&K</b>
+</h3>
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms+Enthusiast;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms+Enthusiast;Future+Software+Engineer;Passionate+Problem+Solver" />
 </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm(DSA) in JAVA**
+---
 
-- 💬 Ask me about **DSA**
+## 👨‍💻 About Me  
 
-- 📫 How to reach me **rajuranjanxbkj@gmail.com**
+<details>
+<summary><b>✨ Click to know more about me</b></summary>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/animesh-kumar-771b60228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animesh-kumar-771b60228" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/annimesh_nits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="annimesh_nits" height="30" width="40" /></a>
+<br>
+
+- 🎓 B.Tech IT Student  
+- 🌱 Currently mastering **Data Structures & Algorithms (DSA) in Java**  
+- 💬 Ask me about **DSA & Java**  
+- 📫 **rajuranjanxbkj@gmail.com**  
+- ⚡ I enjoy solving problems with optimized logic  
+
+</details>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/animesh-kumar-771b60228" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.leetcode.com/annimesh_nits" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=animeshx45&show_icons=true&locale=en&layout=compact" alt="animeshx45" /></p>
+## 🛠️ Languages & Tools  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=animeshx45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshx45&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshx45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+<h3 align="center">💻 "First, solve the problem. Then, write the code."</h3>
