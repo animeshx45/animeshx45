@@ -1,11 +1,8 @@
 <!-- Clean Static Header -->
 <h1 align="center">Hi 👋, I'm Animesh Kumar</h1>
-<h3 align="center">
-B.Tech Information Technology Student at 
-<b>National Institute of Technology Srinagar, J&K</b>
-</h3>
+<h3 align="center">B.Tech Information Technology Student at National Institute of Technology Srinagar, J&K</h3>
 
-<!-- Typing Animation -->
+<!-- Subtle Typing Animation (Role Only) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms+Enthusiast;Future+Software+Engineer;Passionate+Problem+Solver" />
 </p>
@@ -14,18 +11,11 @@ B.Tech Information Technology Student at
 
 ## 👨‍💻 About Me  
 
-<details>
-<summary><b>✨ Click to know more about me</b></summary>
-
-<br>
-
-- 🎓 B.Tech IT Student  
+- 🎓 B.Tech Information Technology Student  
 - 🌱 Currently mastering **Data Structures & Algorithms (DSA) in Java**  
-- 💬 Ask me about **DSA & Java**  
-- 📫 **rajuranjanxbkj@gmail.com**  
-- ⚡ I enjoy solving problems with optimized logic  
-
-</details>
+- 💬 Ask me about **DSA, Problem Solving & Java**  
+- 📫 Reach me at: **rajuranjanxbkj@gmail.com**  
+- ⚡ Strong interest in writing clean & optimized code  
 
 ---
 
