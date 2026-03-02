@@ -29,7 +29,7 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/annimesh_nits" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50" width="50" style="filter: invert(100%);"/>
   </a>
 </p>
 
