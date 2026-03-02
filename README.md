@@ -1,54 +1,23 @@
 <h1 align="center">Hi 👋, I'm Animesh Kumar</h1>
-<h3 align="center">B.Tech Information Technology Student | NIT Srinagar, J&K</h3>
-
+<h3 align="center">B.Tech Information Technology Student at National Institute of Technology Srinagar, J&K</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms+Enthusiast;Future+Software+Engineer" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=animeshx45&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
----
-## 🚀 About Me
-- 🎓 B.Tech IT Student at **National Institute of Technology Srinagar**
-- 🌱 Currently learning **Data Structures and Algorithms (DSA) in Java**
-- 💻 Passionate about **Problem Solving & Competitive Programming**
-- 💬 Ask me about **DSA, Java**
-- 📫 Reach me at: **rajuranjanxbkj@gmail.com**
-- 👨‍💻 All projects: **https://github.com/animeshx45**
----
-## 🌐 Connect With Me
+- 🌱 I’m currently learning **Data Structures and Algorithm(DSA) in JAVA**
 
+- 💬 Ask me about **DSA**
+
+- 📫 How to reach me **rajuranjanxbkj@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/animesh-kumar-771b60228" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://instagram.com/annimesh.kumar" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-<a href="https://www.leetcode.com/annimesh_nits" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="40" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/animesh kumar" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" height="40" />
-</a>
+<a href="https://linkedin.com/in/animesh-kumar-771b60228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animesh-kumar-771b60228" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/annimesh_nits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="annimesh_nits" height="30" width="40" /></a>
 </p>
----
-## 🛠️ Languages and Tools
 
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=java,git,github,IntelliJ IDEA," />
-</p>
----
-## 🏆 Coding Profiles
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-- 🔥 Active on LeetCode  
-- 💚 Solving problems on GeeksforGeeks  
-- 🚀 Consistently practicing DSA  
----
-## 🎯 2026 Goals
-- ✔️ Master DSA in Java  
-- ✔️ Participate in coding contests   
-- ✔️ Build impactful real-world projects  
----
-<h3 align="center">✨ Consistency beats talent when talent doesn’t work hard ✨</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=animeshx45&show_icons=true&locale=en&layout=compact" alt="animeshx45" /></p>
+
