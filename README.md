@@ -6,7 +6,7 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
 
 <!-- Subtle Typing Animation (Role Only) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms+Enthusiast;Future+Software+Engineer;Passionate+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms+Enthusiast;Future+Software+Engineer;Passionate+Problem+Solver" />
 </p>
 
 
