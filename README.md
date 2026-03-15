@@ -27,11 +27,11 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/annimesh_nits" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50" width="50" style="filter: invert(100%) brightness(200%);"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50" width="50" style="filter: invert(100%) brightness(200%) contrast(200%);"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/annimesh.kumar/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="50" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="50" width="50" style="filter: invert(36%) sepia(98%) saturate(7480%) hue-rotate(320deg) brightness(95%) contrast(90%);"/>
   </a>
 </p>
 
