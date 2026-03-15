@@ -21,55 +21,20 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
 
 <h2>🌐 Connect With Me</h2>
 
-<div align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap;">
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
 
 <a href="https://linkedin.com/in/animesh-kumar-771b60228" target="_blank">
-<div style="background:#0077B5;
-width:150px;height:150px;
-display:flex;flex-direction:column;
-align-items:center;justify-content:center;
-border-radius:15px;color:white;
-font-size:18px;font-weight:bold;
-box-shadow:0 8px 18px rgba(0,0,0,0.25);
-transition:transform 0.3s;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-<br>
-LinkedIn
-
-</div>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.leetcode.com/annimesh_nits" target="_blank">
-<div style="background:#FFA116;
-width:150px;height:150px;
-display:flex;flex-direction:column;
-align-items:center;justify-content:center;
-border-radius:15px;color:black;
-font-size:18px;font-weight:bold;
-box-shadow:0 8px 18px rgba(0,0,0,0.25);">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
-<br>
-LeetCode
-
-</div>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.instagram.com/annimesh.kumar/" target="_blank">
-<div style="background:linear-gradient(45deg,#feda75,#fa7e1e,#d62976,#962fbf,#4f5bd5);
-width:150px;height:150px;
-display:flex;flex-direction:column;
-align-items:center;justify-content:center;
-border-radius:15px;color:white;
-font-size:18px;font-weight:bold;
-box-shadow:0 8px 18px rgba(0,0,0,0.25);">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
-<br>
-Instagram
-
-</div>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
