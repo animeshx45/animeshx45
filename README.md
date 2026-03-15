@@ -27,11 +27,11 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/annimesh_nits" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50" width="50" style="filter: invert(100%) brightness(200%) contrast(200%);"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50" width="50" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(200%) contrast(200%);"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/annimesh.kumar/" target="_blank">
-    <img src="https://www.bing.com/images/search?view=detailV2&ccid=7Xv7HE8t&id=DC8E5C21932D0CB4AE6B7BB21EFCEC5F1F01BABE&thid=OIP.7Xv7HE8tc1bESoiRSrGm3gHaEl&mediaurl=https%3A%2F%2F1.bp.blogspot.com%2F-63r-15zpmOM%2FX8Q6wGtvi4I%2FAAAAAAAARjA%2FD4l2GIB45HQnygIOHe2sLnJSrI6V5nqLgCLcBGAsYHQ%2Fs0%2FInstagram%252BLogo%252B-%252BDownload%252BFree%252BVector%252BPNG.png&exph=1267&expw=2048&q=instagram+logo&FORM=IRPRST&ck=781D75CAFF0CE0D9BFFA4CEC50F64185&selectedIndex=5&itb=0&cw=1382&ch=748&ajaxhist=0&ajaxserp=0" height="50" width="50" style="filter: invert(36%) sepia(98%) saturate(7480%) hue-rotate(320deg) brightness(95%) contrast(90%);"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="50" width="50"/>
   </a>
 </p>
 
