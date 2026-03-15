@@ -21,8 +21,6 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
 
 <h2>🌐 Connect With Me</h2>
 
-<h2 align="center">🌐 Connect With Me</h2>
-
 <div align="center">
 
 <a href="https://linkedin.com/in/animesh-kumar-771b60228" target="_blank">
