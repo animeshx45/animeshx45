@@ -20,35 +20,35 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
 
 
 <h2>🌐 Connect With Me</h2>
-
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 25px;">
 
   <!-- LinkedIn Tile -->
-  <a href="https://linkedin.com/in/animesh-kumar-771b60228" target="_blank" 
-     style="text-decoration: none; color: white;">
-    <div style="background-color:#0077B5; width:120px; height:120px; 
-                display:flex; align-items:center; justify-content:center; 
-                border-radius:10px; font-size:20px; font-weight:bold;">
+  <a href="https://linkedin.com/in/animesh-kumar-771b60228" target="_blank" style="text-decoration: none;">
+    <div style="background-color:#0077B5; width:160px; height:160px;
+                display:flex; align-items:center; justify-content:center;
+                border-radius:12px; color:white; font-size:20px; font-weight:bold;
+                box-shadow:0 4px 8px rgba(0,0,0,0.3); transition:0.3s;">
       LinkedIn
     </div>
   </a>
 
   <!-- LeetCode Tile -->
-  <a href="https://www.leetcode.com/annimesh_nits" target="_blank" 
-     style="text-decoration: none; color: white;">
-    <div style="background-color:#FFA116; width:120px; height:120px; 
-                display:flex; align-items:center; justify-content:center; 
-                border-radius:10px; font-size:20px; font-weight:bold;">
+  <a href="https://www.leetcode.com/annimesh_nits" target="_blank" style="text-decoration: none;">
+    <div style="background-color:#FFA116; width:160px; height:160px;
+                display:flex; align-items:center; justify-content:center;
+                border-radius:12px; color:black; font-size:20px; font-weight:bold;
+                box-shadow:0 4px 8px rgba(0,0,0,0.3); transition:0.3s;">
       LeetCode
     </div>
   </a>
 
   <!-- Instagram Tile -->
-  <a href="https://www.instagram.com/annimesh.kumar/" target="_blank" 
-     style="text-decoration: none; color: white;">
-    <div style="background:linear-gradient(45deg,#feda75,#fa7e1e,#d62976,#962fbf,#4f5bd5); 
-                width:120px; height:120px; display:flex; align-items:center; 
-                justify-content:center; border-radius:10px; font-size:20px; font-weight:bold;">
+  <a href="https://www.instagram.com/annimesh.kumar/" target="_blank" style="text-decoration: none;">
+    <div style="background:linear-gradient(45deg,#feda75,#fa7e1e,#d62976,#962fbf,#4f5bd5);
+                width:160px; height:160px; display:flex; align-items:center;
+                justify-content:center; border-radius:12px; color:white;
+                font-size:20px; font-weight:bold; box-shadow:0 4px 8px rgba(0,0,0,0.3);
+                transition:0.3s;">
       Instagram
     </div>
   </a>
