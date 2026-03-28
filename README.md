@@ -24,7 +24,7 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
 <div align="center">
 
 <a href="https://linkedin.com/in/animesh-kumar-771b60228" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://www.trypear.ai/images/leetcode.png"/>
 </a>
 
 <a href="https://www.leetcode.com/annimesh_nits" target="_blank">
