@@ -32,7 +32,7 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/annimeshkumar" target="_blank">
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20231004184219/gfglogo0.jpg" width ="80/>
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20231004184219/gfglogo0.jpg" width ="60/>
 </a>
 
 <a href="https://www.instagram.com/annimesh.kumar/" target="_blank">
