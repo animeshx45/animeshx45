@@ -32,7 +32,7 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
 </a>
 
 <a href="https://www.instagram.com/annimesh.kumar/" target="_blank">
-  <img src="https://cdn.pixabay.com/photo/2021/10/17/14/55/instagram-6718540_960_720.png" width = "70"/>
+  <img src="https://cdn.pixabay.com/photo/2021/10/17/14/55/instagram-6718540_960_720.png" width = "50"/>
 </a>
 
 </div>
