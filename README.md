@@ -24,15 +24,15 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
 <div align="center">
 
 <a href="https://linkedin.com/in/animesh-kumar-771b60228" target="_blank">
-  <img src="https://www.trypear.ai/images/leetcode.png" width = "60/>
+  <img src="https://www.trypear.ai/images/leetcode.png" width = "150/>
 </a>
 
 <a href="https://www.leetcode.com/annimesh_nits" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-png-25.png" width ="150/>
 </a>
 
 <a href="https://www.instagram.com/annimesh.kumar/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://freepnglogo.com/images/all_img/1715966363instagram-logo-with-name-png.png" width = "150"/>
 </a>
 
 </div>
