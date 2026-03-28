@@ -31,6 +31,10 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
   <img src="https://www.trypear.ai/images/leetcode.png" width ="150/>
 </a>
 
+<a href="https://www.geeksforgeeks.org/profile/annimeshkumar" target="_blank">
+  <img src="https://images.shiksha.com/mediadata/images/1716571645phpme0IO9.jpeg" width ="150/>
+</a>
+
 <a href="https://www.instagram.com/annimesh.kumar/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" width = "80"/>
 </a>
