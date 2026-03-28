@@ -24,7 +24,7 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
 <div align="center">
 
 <a href="https://linkedin.com/in/animesh-kumar-771b60228" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width = "70/>
+  <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width = "80/>
 </a>
 
 <a href="https://www.leetcode.com/annimesh_nits" target="_blank">
@@ -32,7 +32,7 @@ B.Tech Information Technology Student at National Institute of Technology Srinag
 </a>
 
 <a href="https://www.instagram.com/annimesh.kumar/" target="_blank">
-  <img src="https://cdn.pixabay.com/photo/2021/10/17/14/55/instagram-6718540_960_720.png" width = "60"/>
+  <img src="https://cdn.pixabay.com/photo/2021/10/17/14/55/instagram-6718540_960_720.png" width = "70"/>
 </a>
 
 </div>
