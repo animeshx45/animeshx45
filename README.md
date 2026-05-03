@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,020,0,14,22&height=3&section=header" width="100%" />
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Animesh%20Kumar&fontSize=70&fontColor=fff&fontAlignY=55&desc=B.Tech%20IT%20%C2%B7%20NIT%20Srinagar&descSize=16&descAlignY=75&animation=twinkling" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0a0a0a&height=150&text=ANIMESH%20KUMAR&fontSize=46&fontColor=00e5ff&fontAlignY=55&animation=fadeIn&desc=Information%20Technology%20%7C%20NIT%20Srinagar&descSize=13&descColor=4dd0e1&descAlignY=75" width="100%" />
 
 <br/>
 
