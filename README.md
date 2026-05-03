@@ -1,162 +1,96 @@
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Initializing+profile...;Loading+Animesh+Kumar...;DSA+%7C+Java+%7C+Problem+Solving;Welcome+to+my+GitHub!+%F0%9F%9A%80)
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Animesh%20Kumar&fontSize=70&fontColor=fff&fontAlignY=55&desc=B.Tech%20IT%20%C2%B7%20NIT%20Srinagar&descSize=16&descAlignY=75&animation=twinkling" width="100%"/>
 </div>
-
----
-
-<div align="center">
-
-```
- █████╗ ███╗   ██╗██╗███╗   ███╗███████╗███████╗██╗  ██╗
-██╔══██╗████╗  ██║██║████╗ ████║██╔════╝██╔════╝██║  ██║
-███████║██╔██╗ ██║██║██╔████╔██║█████╗  ███████╗███████║
-██╔══██║██║╚██╗██║██║██║╚██╔╝██║██╔══╝  ╚════██║██╔══██║
-██║  ██║██║ ╚████║██║██║ ╚═╝ ██║███████╗███████║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
-
-</div>
-
-<div align="center">
-
-# 👨‍💻 Animesh Kumar
-
-### `B.Tech Information Technology` · `NIT Srinagar, J&K`
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms+Enthusiast;Java+Developer+%E2%98%95;Problem+Solver+%F0%9F%94%8D;Future+Software+Engineer+%F0%9F%9A%80;Clean+%26+Optimized+Code+Advocate+%E2%9A%A1)
-
 <br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=animeshx45&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/animeshx45)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/animeshx45?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github&logoColor=00ff41&label=FOLLOWERS)](https://github.com/animeshx45?tab=followers)
-
+<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=550&lines=DSA+%26+Algorithms+Enthusiast+%E2%9C%A6;Java+Developer+%7C+Problem+Solver;Open+to+Internships+%26+Collaborations;Building+Clean+%26+Optimized+Solutions)
 </div>
-
+<br/>
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=animeshx45&style=flat-square&color=7c3aed&label=Profile+Views&labelColor=1e1b4b)
+ 
+![GitHub followers](https://img.shields.io/github/followers/animeshx45?style=flat-square&color=7c3aed&labelColor=1e1b4b&logo=github&logoColor=white&label=Followers)
+</div>
 ---
-
-## `>_ About Me`
-
+◈ About Me
 ```java
 public class Animesh {
 
-    String name        = "Animesh Kumar";
-    String institute   = "NIT Srinagar, Jammu & Kashmir";
-    String degree      = "B.Tech — Information Technology";
-    String focus       = "Data Structures & Algorithms (Java)";
-    String email       = "rajuranjanxbkj@gmail.com";
-    boolean openTo     = true; // internships & collaborations
+    final String name      = "Animesh Kumar";
+    final String college   = "NIT Srinagar, Jammu & Kashmir";
+    final String degree    = "B.Tech — Information Technology";
+    final String email     = "rajuranjanxbkj@gmail.com";
+    final boolean openTo   = true; // internships & collaborations
 
-    String[] interests = {
-        "DSA & Competitive Programming",
-        "Clean & Optimized Code",
-        "Problem Solving",
+    final String[] passions = {
+        "Data Structures & Algorithms",
+        "Competitive Programming",
+        "Clean, Optimized Code",
         "Software Engineering"
     };
 
-    String[] currentlyLearning = {
+    final String[] learning = {
         "Advanced DSA in Java",
         "Dynamic Programming",
         "Graph Algorithms"
     };
+
+    void greet() {
+        System.out.println("Thanks for visiting! Let's connect 🚀");
+    }
 }
 ```
-
 ---
-
-## `>_ Connect With Me`
-
+◈ Tech Stack
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Animesh_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/animesh-kumar-771b60228)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-annimesh__nits-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://www.leetcode.com/annimesh_nits)
-&nbsp;
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-annimeshkumar-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0d1117)](https://www.geeksforgeeks.org/profile/annimeshkumar)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-annimesh.kumar-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d1117)](https://www.instagram.com/annimesh.kumar/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-rajuranjanxbkj-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:rajuranjanxbkj@gmail.com)
-
+![Java](https://img.shields.io/badge/Java-1e1b4b?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
+![Git](https://img.shields.io/badge/Git-1e1b4b?style=for-the-badge&logo=git&logoColor=a78bfa)
+![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=a78bfa)
+![VS Code](https://img.shields.io/badge/VS_Code-1e1b4b?style=for-the-badge&logo=visual-studio-code&logoColor=a78bfa)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-1e1b4b?style=for-the-badge&logo=intellij-idea&logoColor=a78bfa)
 </div>
-
----
-
-## `>_ Languages & Tools`
-
 <div align="center">
-
-![Java](https://img.shields.io/badge/Java-%2300ff41.svg?style=for-the-badge&logo=openjdk&logoColor=0d1117&labelColor=00ff41)
-&nbsp;
-![Git](https://img.shields.io/badge/Git-%2300ff41.svg?style=for-the-badge&logo=git&logoColor=0d1117&labelColor=00ff41)
-&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-%2300ff41.svg?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=00ff41)
-&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-%2300ff41.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0d1117&labelColor=00ff41)
-&nbsp;
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-%2300ff41.svg?style=for-the-badge&logo=intellij-idea&logoColor=0d1117&labelColor=00ff41)
-
-<br/><br/>
-
-![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Practice-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0d1117)
-&nbsp;
-![GeeksForGeeks](https://img.shields.io/badge/GFG-Problem_Solving-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0d1117)
-&nbsp;
-![OOP](https://img.shields.io/badge/OOP-Java-00ff41?style=flat-square&logoColor=white&labelColor=0d1117)
-&nbsp;
-![DSA](https://img.shields.io/badge/DSA-Enthusiast-39d353?style=flat-square&logoColor=white&labelColor=0d1117)
-
+![DSA](https://img.shields.io/badge/Data_Structures-1e1b4b?style=flat-square&logoColor=white&labelColor=1e1b4b&color=4c1d95)
+![Algorithms](https://img.shields.io/badge/Algorithms-1e1b4b?style=flat-square&logoColor=white&labelColor=1e1b4b&color=4c1d95)
+![OOP](https://img.shields.io/badge/OOP-1e1b4b?style=flat-square&logoColor=white&labelColor=1e1b4b&color=4c1d95)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-1e1b4b?style=flat-square&logoColor=white&labelColor=1e1b4b&color=4c1d95)
 </div>
-
 ---
-
-## `>_ GitHub Stats`
-
+◈ GitHub Stats
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=animeshx45&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=39d353&text_color=c9d1d9&border_color=30363d&ring_color=00ff41" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshx45&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=39d353&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=30363d" height="170" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshx45&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=30363d" alt="Top Languages"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=animeshx45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed" height="165"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshx45&theme=tokyonight&hide_border=true&background=0d0f1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=6d6a9e&currStreakNum=c4b5fd&sideNums=c4b5fd&stroke=1e1b4b" height="165"/>
 </div>
-
----
-
-## `>_ GitHub Activity`
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=animeshx45&bg_color=0d1117&color=00ff41&line=39d353&point=00ff41&area=true&area_color=00ff41&hide_border=true&title_color=00ff41" alt="GitHub Activity Graph"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshx45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f1a&title_color=a78bfa&text_color=c4b5fd"/>
 </div>
-
 ---
-
-## `>_ Competitive Programming`
-
+◈ Activity
 <div align="center">
-
-| Platform | Profile | Focus |
-|:---:|:---:|:---:|
-| ![LeetCode](https://img.shields.io/badge/-LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=FFA116) | [annimesh_nits](https://leetcode.com/annimesh_nits) | DSA Problems |
-| ![GFG](https://img.shields.io/badge/-GeeksForGeeks-0d1117?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46) | [annimeshkumar](https://geeksforgeeks.org/profile/annimeshkumar) | Practice & Articles |
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=animeshx45&bg_color=0d0f1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true&title_color=a78bfa" width="95%"/>
 </div>
-
 ---
-
+◈ Competitive Programming
 <div align="center">
-
-### `>_ "First, solve the problem. Then, write the code."`
-
+Platform	Handle	Focus Area
+🟡 LeetCode	annimesh_nits	DSA Problems & Contests
+🟢 GeeksForGeeks	annimeshkumar	Practice & Articles
+</div>
+---
+◈ Connect
+<div align="center">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=a78bfa&label=Animesh+Kumar)
+ 
+![LeetCode](https://img.shields.io/badge/LeetCode-1e1b4b?style=for-the-badge&logo=leetcode&logoColor=a78bfa&label=annimesh_nits)
+ 
+![GFG](https://img.shields.io/badge/GeeksForGeeks-1e1b4b?style=for-the-badge&logo=geeksforgeeks&logoColor=a78bfa&label=annimeshkumar)
+ 
+![Gmail](https://img.shields.io/badge/Gmail-1e1b4b?style=for-the-badge&logo=gmail&logoColor=a78bfa&label=Email+Me)
+</div>
+---
+<div align="center">
+"First, solve the problem. Then, write the code."
 <br/>
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer&fontColor=0d1117&reversal=false)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
