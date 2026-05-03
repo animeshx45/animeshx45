@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Animesh%20Kumar&fontSize=70&fontColor=fff&fontAlignY=55&desc=B.Tech%20IT%20%C2%B7%20NIT%20Srinagar&descSize=16&descAlignY=75&animation=twinkling" width="100%"/>
 </div>
 <br/>
----
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Initializing+profile...;Loading+Animesh+Kumar...;DSA+%7C+Java+%7C+Problem+Solving;Welcome+to+my+GitHub!+%F0%9F%9A%80;Open+to+Internships+%26+Collaborations)
