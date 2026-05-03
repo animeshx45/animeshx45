@@ -140,9 +140,3 @@ public class Animesh {
 <div align="center">
 
 *"First, solve the problem. Then, write the code."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=d97706&height=100&section=footer&reversal=true" width="100%" />
-
-</div>
