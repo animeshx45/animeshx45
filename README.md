@@ -1,4 +1,19 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Animesh%20Kumar&fontSize=70&fontColor=fff&fontAlignY=55&desc=B.Tech%20IT%20%C2%B7%20NIT%20Srinagar&descSize=16&descAlignY=75&animation=twinkling" width="100%"/>
+</div>
+<br/>
+<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=550&lines=DSA+%26+Algorithms+Enthusiast+%E2%9C%A6;Java+Developer+%7C+Problem+Solver;Open+to+Internships+%26+Collaborations;Building+Clean+%26+Optimized+Solutions)
+</div>
+<br/>
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=animeshx45&style=flat-square&color=7c3aed&label=Profile+Views&labelColor=1e1b4b)
+ 
+![GitHub followers](https://img.shields.io/github/followers/animeshx45?style=flat-square&color=7c3aed&labelColor=1e1b4b&logo=github&logoColor=white&label=Followers)
+</div>
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=160&section=header&text=Animesh%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=50&desc=B.Tech%20IT%20%7C%20NIT%20Srinagar&descAlignY=70&descSize=16&descColor=c4b5fd" width="100%" />
 
