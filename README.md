@@ -1,238 +1,200 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Animesh%20Kumar&fontSize=72&fontColor=fff&fontAlignY=45&desc=B.Tech%20Information%20Technology%20%C2%B7%20NIT%20Srinagar&descSize=17&descAlignY=67&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:041b15,50:064e3b,100:22c55e&height=250&section=header&text=Animesh%20Kumar&fontSize=75&fontColor=dcfce7&fontAlignY=40&desc=B.Tech%20IT%20•%20NIT%20Srinagar&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=16&duration=2500&pause=800&color=FBBF24&center=true&vCenter=true&width=600&lines=⚡+DSA+%7C+Java+%7C+Problem+Solver;🏗️+Building+Clean+%26+Efficient+Code;🎯+500%2B+Problems+Solved+on+LeetCode;🚀+Open+to+Internships+%26+Collaborations;💡+NIT+Srinagar+→+Software+Engineering)
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Animesh+Kumar;Java+Developer+%7C+DSA+Enthusiast;Competitive+Programmer;Building+Clean+and+Efficient+Code;Open+to+Internships+and+Collaborations;Welcome+to+my+GitHub+Profile+🚀" />
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=animeshx45&style=for-the-badge&color=d97706&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/animeshx45)
+![](https://komarev.com/ghpvc/?username=animeshx45&style=for-the-badge&color=22c55e)
 &nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/animeshx45?style=for-the-badge&color=d97706&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0d1117)](https://github.com/animeshx45?tab=followers)
+![](https://img.shields.io/github/followers/animeshx45?style=for-the-badge&color=22c55e&logo=github&label=Followers)
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/animeshx45?style=for-the-badge&color=d97706&logo=github&logoColor=white&label=STARS&labelColor=0d1117)](https://github.com/animeshx45)
+![](https://img.shields.io/github/stars/animeshx45?style=for-the-badge&color=22c55e&logo=github&label=Stars)
 
 </div>
-
-<br/>
 
 ---
 
-<div align="center">
-
-## `< Who Am I? />`
-
-</div>
+# 🧑‍💻 About Me
 
 ```java
-/**
- * ╔══════════════════════════════════════════════════════════╗
- * ║              ANIMESH KUMAR  —  Developer Profile         ║
- * ╚══════════════════════════════════════════════════════════╝
- */
-public class AnimeshKumar implements Developer {
+public class AnimeshKumar {
 
-    // ── Identity ──────────────────────────────────────────────
-    final String name     = "Animesh Kumar";
-    final String college  = "NIT Srinagar, Jammu & Kashmir";
-    final String degree   = "B.Tech — Information Technology";
-    final String email    = "rajuranjanxbkj@gmail.com";
-    final boolean openTo  = true; // internships & collaborations
+    String college = "NIT Srinagar";
+    String degree = "B.Tech Information Technology";
 
-    // ── Core Interests ────────────────────────────────────────
-    final String[] passions = {
+    String[] interests = {
         "Data Structures & Algorithms",
         "Competitive Programming",
-        "Clean, Optimized Code",
-        "Software Engineering Principles"
+        "Software Development",
+        "Problem Solving"
     };
 
-    // ── Currently Leveling Up ────────────────────────────────
-    final String[] grinding = {
-        "Advanced DSA in Java",
-        "Dynamic Programming Patterns",
-        "Graph Algorithms & Trees",
-        "System Design Fundamentals"
+    String[] languages = {
+        "Java",
+        "C",
+        "SQL"
     };
 
-    // ── Fun Facts ─────────────────────────────────────────────
-    final String[] facts = {
-        "☕  Fueled by chai and debugging sessions",
-        "📚  Believe in first-principles thinking",
-        "🌙  Best code written after midnight"
+    String[] currentlyLearning = {
+        "Advanced DSA",
+        "Dynamic Programming",
+        "Graph Algorithms",
+        "Backend Development"
     };
 
-    @Override
-    public String greet() {
-        return "Thanks for stopping by — let's build something great! 🚀";
+    boolean openForInternships = true;
+
+    void sayHello() {
+        System.out.println("Thanks for visiting my profile 🚀");
     }
 }
 ```
 
-<br/>
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,git,github,vscode,idea,mysql&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Data%20Structures-0f172a?style=for-the-badge&logo=thealgorithms&logoColor=22c55e)
+![](https://img.shields.io/badge/Algorithms-0f172a?style=for-the-badge&logo=codeforces&logoColor=22c55e)
+![](https://img.shields.io/badge/OOP-0f172a?style=for-the-badge&logo=openjdk&logoColor=22c55e)
+![](https://img.shields.io/badge/Problem%20Solving-0f172a?style=for-the-badge&logo=leetcode&logoColor=22c55e)
+
+</div>
 
 ---
 
-<div align="center">
-
-## `< Tech Stack />`
-
-</div>
+# 📊 GitHub Analytics
 
 <div align="center">
 
-**Languages & Core**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=animeshx45&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=4ade80&text_color=dcfce7"/>
 
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=fbbf24)
-&nbsp;
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0d1117?style=for-the-badge&logo=thealgorithms&logoColor=fbbf24)
-&nbsp;
-![OOP](https://img.shields.io/badge/OOP_Principles-0d1117?style=for-the-badge&logo=java&logoColor=fbbf24)
-
-**Dev Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=fbbf24)
-&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=fbbf24)
-&nbsp;
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0d1117?style=for-the-badge&logo=intellijidea&logoColor=fbbf24)
-&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=fbbf24)
-
-**Competitive Platforms**
-
-![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=fbbf24)
-&nbsp;
-![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=fbbf24)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshx45&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=4ade80&currStreakLabel=22c55e"/>
 
 </div>
 
-<br/>
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshx45&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=dcfce7"/>
+
+</div>
 
 ---
 
-<div align="center">
-
-## `< GitHub Stats />`
-
-</div>
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=animeshx45&show_icons=true&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=d97706&text_color=fef3c7&ring_color=d97706&border_radius=12" height="170"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=animeshx45&hide_border=true&background=0d1117&ring=d97706&fire=fbbf24&currStreakLabel=fbbf24&sideLabels=fef3c7&dates=a16207&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=animeshx45&bg_color=0d1117&color=22c55e&line=4ade80&point=dcfce7&area=true&hide_border=true" width="95%"/>
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshx45&layout=compact&hide_border=true&bg_color=0d1117&title_color=fbbf24&text_color=fef3c7&border_radius=12&langs_count=6" height="145"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=animeshx45&theme=gruvbox&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" width="95%"/>
-
-</div>
-
-<br/>
 
 ---
 
-<div align="center">
-
-## `< Contribution Graph />`
-
-</div>
+# 🏆 Competitive Programming
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=animeshx45&bg_color=0d1117&color=fbbf24&line=d97706&point=ffffff&area=true&area_color=d97706&hide_border=true&radius=12" width="95%"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## `< Competitive Programming />`
-
-</div>
-
-<div align="center">
-
-| 🏅 Platform | 🔗 Handle | 💡 Focus |
+| Platform | Profile | Focus |
 |:---:|:---:|:---:|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=fbbf24) | **[annimesh_nits](https://leetcode.com/annimesh_nits)** | DSA · Contests · Daily Challenges |
-| ![GFG](https://img.shields.io/badge/GeeksForGeeks-0d1117?style=flat-square&logo=geeksforgeeks&logoColor=fbbf24) | **[annimeshkumar](https://geeksforgeeks.org/profile/annimeshkumar)** | Practice · Articles · Interview Prep |
+| 🟢 LeetCode | [annimesh_nits](https://leetcode.com/annimesh_nits) | DSA & Contest Problems |
+| 🟩 GeeksForGeeks | [annimeshkumar](https://geeksforgeeks.org/profile/annimeshkumar) | Coding Practice |
+| ⚫ GitHub | [animeshx45](https://github.com/animeshx45) | Projects & Open Source |
 
 </div>
 
-<br/>
+---
+
+# 🚀 Goals for 2026
+
+- ✅ Strengthen DSA & Problem Solving
+- ✅ Build Real-World Projects
+- ✅ Contribute to Open Source
+- ✅ Crack Software Engineering Internships
+- ✅ Improve Development Skills
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+➜ Advanced Data Structures
+➜ Dynamic Programming
+➜ Graph Theory
+➜ Backend Development
+➜ Open Source Contributions
+```
+
+---
+
+# 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/animesh-kumar-771b60228">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22c55e"/>
+</a>
+
+<a href="https://leetcode.com/annimesh_nits">
+<img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=22c55e"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/annimeshkumar">
+<img src="https://img.shields.io/badge/GeeksForGeeks-0f172a?style=for-the-badge&logo=geeksforgeeks&logoColor=22c55e"/>
+</a>
+
+<a href="https://instagram.com/annimesh.kumar">
+<img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=22c55e"/>
+</a>
+
+<a href="mailto:rajuranjanxbkj@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=22c55e"/>
+</a>
+
+</div>
+
+---
+
+# 💚 Developer Quote
+
+<div align="center">
+
+### *“First, solve the problem. Then, write the code.”*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
 
 ---
 
 <div align="center">
 
-## `< Connect With Me />`
+### ⚡ Thanks for Visiting My Profile ⚡
 
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=fbbf24&labelColor=0d1117)](https://linkedin.com/in/animesh-kumar-771b60228)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=fbbf24)](https://www.leetcode.com/annimesh_nits)
-&nbsp;
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=fbbf24)](https://www.geeksforgeeks.org/profile/annimeshkumar)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=fbbf24)](https://www.instagram.com/annimesh.kumar/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=fbbf24)](mailto:rajuranjanxbkj@gmail.com)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="70%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."           ║
-║                                          — John Johnson      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-**⭐ If you find my work interesting, drop a star — it means a lot!**
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:041b15,50:064e3b,100:22c55e&height=120&section=footer"/>
 
 </div>
