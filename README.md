@@ -105,16 +105,6 @@ public class AnimeshKumar {
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=animeshx45&bg_color=0d1117&color=22c55e&line=4ade80&point=dcfce7&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 # 🏆 Competitive Programming
 
 <div align="center">
