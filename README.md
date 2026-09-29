@@ -1,190 +1,275 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:041b15,50:064e3b,100:22c55e&height=250&section=header&text=Animesh%20Kumar&fontSize=75&fontColor=dcfce7&fontAlignY=40&desc=B.Tech%20IT%20•%20NIT%20Srinagar&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
+# ANIMESH KUMAR
+
+### `B.Tech IT @ NIT Srinagar` · `Java Developer` · `DSA Enthusiast`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=720&lines=Building+with+Java+%26+DSA;Competitive+Programming+Enthusiast;Learning+Backend+Development;Turning+Problems+into+Clean+Solutions" />
+
+<br>
+
+<a href="https://github.com/animeshx45">
+<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=22C55E"/>
+</a>
+<a href="https://linkedin.com/in/animesh-kumar-771b60228">
+<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=22C55E"/>
+</a>
+<a href="https://leetcode.com/annimesh_nits">
+<img src="https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=22C55E"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=animeshx45&style=flat-square&color=22C55E&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
-<div align="center">
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Animesh+Kumar;Java+Developer+%7C+DSA+Enthusiast;Competitive+Programmer;Building+Clean+and+Efficient+Code;Open+to+Internships+and+Collaborations;Welcome+to+my+GitHub+Profile+🚀" />
+## `01` — ABOUT
 
-</div>
+<table>
+<tr>
+<td width="55%">
+
+### 👋 Hello, I'm Animesh.
+
+I'm a **B.Tech Information Technology student at NIT Srinagar** focused on building strong foundations in software engineering.
+
+My main interests are **Data Structures & Algorithms, Competitive Programming, Java development and backend engineering**.
+
+I enjoy taking complex problems, breaking them into smaller pieces, and turning those ideas into clean and efficient code.
 
 <br>
 
-<div align="center">
+**Currently:**
+`Learning → Building → Solving → Improving`
 
-![](https://komarev.com/ghpvc/?username=animeshx45&style=for-the-badge&color=22c55e)
-&nbsp;
-![](https://img.shields.io/github/followers/animeshx45?style=for-the-badge&color=22c55e&logo=github&label=Followers)
-&nbsp;
-![](https://img.shields.io/github/stars/animeshx45?style=for-the-badge&color=22c55e&logo=github&label=Stars)
+</td>
 
-</div>
-
----
-
-# 🧑‍💻 About Me
-
-```java
-public class AnimeshKumar {
-
-    String college = "NIT Srinagar";
-    String degree = "B.Tech Information Technology";
-
-    String[] interests = {
-        "Data Structures & Algorithms",
-        "Competitive Programming",
-        "Software Development",
-        "Problem Solving"
-    };
-
-    String[] languages = {
-        "Java",
-        "C",
-        "SQL"
-    };
-
-    String[] currentlyLearning = {
-        "Advanced DSA",
-        "Dynamic Programming",
-        "Graph Algorithms",
-        "Backend Development"
-    };
-
-    boolean openForInternships = true;
-
-    void sayHello() {
-        System.out.println("Thanks for visiting my profile 🚀");
-    }
-}
-```
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,git,github,vscode,idea,mysql&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-![](https://img.shields.io/badge/Data%20Structures-0f172a?style=for-the-badge&logo=thealgorithms&logoColor=22c55e)
-![](https://img.shields.io/badge/Algorithms-0f172a?style=for-the-badge&logo=codeforces&logoColor=22c55e)
-![](https://img.shields.io/badge/OOP-0f172a?style=for-the-badge&logo=openjdk&logoColor=22c55e)
-![](https://img.shields.io/badge/Problem%20Solving-0f172a?style=for-the-badge&logo=leetcode&logoColor=22c55e)
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=animeshx45&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=4ade80&text_color=dcfce7"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshx45&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=4ade80&currStreakLabel=22c55e"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshx45&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=dcfce7"/>
-
-</div>
-
----
-
-# 🏆 Competitive Programming
-
-<div align="center">
-
-| Platform | Profile | Focus |
-|:---:|:---:|:---:|
-| 🟢 LeetCode | [annimesh_nits](https://leetcode.com/annimesh_nits) | DSA & Contest Problems |
-| 🟩 GeeksForGeeks | [annimeshkumar](https://geeksforgeeks.org/profile/annimeshkumar) | Coding Practice |
-| ⚫ GitHub | [animeshx45](https://github.com/animeshx45) | Projects & Open Source |
-
-</div>
-
----
-
-# 🚀 Goals for 2026
-
-- ✅ Strengthen DSA & Problem Solving
-- ✅ Build Real-World Projects
-- ✅ Contribute to Open Source
-- ✅ Crack Software Engineering Internships
-- ✅ Improve Development Skills
-
----
-
-# 🌱 Currently Exploring
+<td width="45%">
 
 ```text
-➜ Advanced Data Structures
-➜ Dynamic Programming
-➜ Graph Theory
-➜ Backend Development
-➜ Open Source Contributions
+┌─────────────────────────┐
+│       DEVELOPER         │
+├─────────────────────────┤
+│ 🎓 NIT Srinagar         │
+│ 💻 B.Tech IT            │
+│ ☕ Java                 │
+│ 🧠 DSA                 │
+│ ⚡ Competitive Coding   │
+│ 🌐 Backend             │
+│ 🌱 Open Source          │
+└─────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `02` — TECH STACK
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=java,c,mysql&theme=dark" />
+
+<br><br>
+
+### DEVELOPMENT & TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+
+<br><br>
+
+### CORE
+
+<img src="https://img.shields.io/badge/Data%20Structures-0A0A0A?style=for-the-badge&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/Algorithms-0A0A0A?style=for-the-badge&logo=thealgorithms&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/OOP-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=22C55E"/>
+
+</div>
+
+---
+
+## `03` — WHAT I'M WORKING ON
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 DSA
+
+```text
+✓ Arrays & Strings
+✓ Linked Lists
+✓ Stacks & Queues
+✓ Trees
+✓ Graph Algorithms
+✓ Dynamic Programming
+✓ Advanced Problem Solving
+```
+
+</td>
+
+<td width="50%">
+
+### ⚙️ DEVELOPMENT
+
+```text
+✓ Java Development
+✓ OOP & Design Principles
+✓ Backend Fundamentals
+✓ SQL & Databases
+✓ REST APIs
+✓ Git & GitHub
+✓ Open Source
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=animeshx45&show_icons=true&hide_border=true&bg_color=000000&title_color=22C55E&icon_color=22C55E&text_color=E5E7EB&ring_color=22C55E" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshx45&hide_border=true&background=000000&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=E5E7EB&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshx45&layout=compact&hide_border=true&bg_color=000000&title_color=22C55E&text_color=E5E7EB" />
+
+</div>
+
+---
+
+## `05` — PROBLEM SOLVING
+
+<div align="center">
+
+<a href="https://leetcode.com/annimesh_nits">
+
+<img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=22C55E"/>
+
+</a>
+
+ 
+
+<a href="https://www.geeksforgeeks.org/profile/annimeshkumar">
+
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=22C55E"/>
+
+</a>
+
+ 
+
+<a href="https://github.com/animeshx45">
+
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=22C55E"/>
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+        THINK
+          ↓
+      UNDERSTAND
+          ↓
+       DESIGN
+          ↓
+        CODE
+          ↓
+       OPTIMIZE
+          ↓
+        REPEAT
+```
+
+</div>
+
+---
+
+## `06` — CURRENT FOCUS
+
+<div align="center">
+
+| AREA                         |    STATUS    |
+| :--------------------------- | :----------: |
+| Data Structures & Algorithms | `████████░░` |
+| Competitive Programming      | `███████░░░` |
+| Java Development             | `████████░░` |
+| Backend Development          | `██████░░░░` |
+| Open Source                  | `█████░░░░░` |
+
+</div>
+
+---
+
+## `07` — 2026 ROADMAP
+
+```text
+01  ████████████████████  Strengthen DSA
+02  ███████████████░░░░░  Master Advanced Algorithms
+03  █████████████░░░░░░░  Build Backend Projects
+04  ██████████░░░░░░░░░░  Contribute to Open Source
+05  ████████░░░░░░░░░░░░  Prepare for Software Internships
 ```
 
 ---
 
-# 🔗 Connect With Me
+## `08` — CONNECT
 
 <div align="center">
 
 <a href="https://linkedin.com/in/animesh-kumar-771b60228">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22c55e"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=22C55E"/>
 </a>
 
 <a href="https://leetcode.com/annimesh_nits">
-<img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=22c55e"/>
+<img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=22C55E"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/annimeshkumar">
-<img src="https://img.shields.io/badge/GeeksForGeeks-0f172a?style=for-the-badge&logo=geeksforgeeks&logoColor=22c55e"/>
+<img src="https://img.shields.io/badge/GFG-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=22C55E"/>
 </a>
 
 <a href="https://instagram.com/annimesh.kumar">
-<img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=22c55e"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=22C55E"/>
 </a>
+
+<br><br>
 
 <a href="mailto:rajuranjanxbkj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=22c55e"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=22C55E"/>
 </a>
 
 </div>
 
 ---
 
-# 💚 Developer Quote
-
 <div align="center">
 
-### *“First, solve the problem. Then, write the code.”*
+### `BUILD • SOLVE • LEARN • REPEAT`
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Thanks for Visiting My Profile ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:041b15,50:064e3b,100:22c55e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F16,100:22C55E&height=100&section=footer"/>
 
 </div>
