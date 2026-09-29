@@ -1,38 +1,44 @@
 <div align="center">
 
-# ANIMESH KUMAR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:031f14,100:22c55e&height=180&section=header&text=ANIMESH%20KUMAR&fontSize=52&fontColor=f0fdf4&fontAlignY=38&desc=JAVA%20DEVELOPER%20%20%7C%20%20DSA%20ENTHUSIAST&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
 
-### `B.Tech IT @ NIT Srinagar` · `Java Developer` · `DSA Enthusiast`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+%26+Competitive+Programming;Backend+Development;Building+Clean+%26+Efficient+Code;Always+Learning+Something+New" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=animeshx45&style=flat-square&color=22C55E&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Building+clean+and+efficient+software;Solving+problems+with+Java+%26+DSA;Exploring+Backend+Development;Learning.+Building.+Improving." />
 
 <br><br>
 
-`JAVA` · `DSA` · `BACKEND` · `PROBLEM SOLVING`
+<a href="https://github.com/animeshx45">
+<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=22C55E"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/animesh-kumar-771b60228">
+<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=22C55E"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/annimesh_nits">
+<img src="https://img.shields.io/badge/LEETCODE-0A0A0A?style=flat-square&logo=leetcode&logoColor=22C55E"/>
+</a>
 
 </div>
 
----
+<br>
 
-<div align="center">
+<table>
+<tr>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   $ whoami                                                  │
-│   Animesh Kumar                                             │
-│                                                             │
-│   $ education                                               │
-│   B.Tech Information Technology — NIT Srinagar             │
-│                                                             │
-│   $ current_focus                                           │
-│   Java • DSA • Backend Development                          │
-│                                                             │
-│   $ status                                                  │
-│   Learning • Building • Solving                             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+<td width="50%" valign="top">
+
+## `hello_world();`
+
+```java
+public class Animesh {
+
+    String education = "B.Tech IT";
+    String college = "NIT Srinagar";
+
+    String focus =
+        "Java + DSA + Backend";
+
+    String mindset =
+        "Build. Solve. Improve.";
+
+}
