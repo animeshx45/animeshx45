@@ -23,11 +23,8 @@
 </a>
 
 </div>
-
 <br>
-
 ---
-
 <table width="100%">
 <tr>
 
@@ -96,40 +93,63 @@ and learning how modern software systems work.
 
 </tr>
 </table>
-
 <br>
-
 ---
 ---
 
 <div align="center">
 
-## 🧠 DSA & Competitive Programming
+<h2>🧠 DSA & Competitive Programming</h2>
 
-`Data Structures` · `Algorithms` · `Competitive Programming`
+<p><b>Comprehensive Coding Practice & Competitive Programming</b></p>
 
-<br>
+<table>
+<tr>
+<td align="center" width="180">
 
 <a href="https://leetcode.com/annimesh_nits">
-<img src="https://img.shields.io/badge/LEETCODE-050805?style=for-the-badge&logo=leetcode&logoColor=00FF66"/>
-</a>
-&nbsp;
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/CODEFORCES-050805?style=for-the-badge&logo=codeforces&logoColor=00FF66"/>
-</a>
-&nbsp;
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CODECHEF-050805?style=for-the-badge&logo=codechef&logoColor=00FF66"/>
-</a>
-&nbsp;
-<a href="https://www.geeksforgeeks.org/profile/annimeshkumar">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-050805?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF66"/>
-</a>
-
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55">
 <br>
+<b>LeetCode</b>
+</a>
 
-`PROBLEM SOLVING` · `CONTESTS` · `DSA` · `ALGORITHMS`
+</td>
+
+<td align="center" width="180">
+
+<a href="https://codeforces.com/">
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="55">
+<br>
+<b>Codeforces</b>
+</a>
+
+</td>
+
+<td align="center" width="180">
+
+<a href="https://www.codechef.com/">
+<img src="https://cdn.simpleicons.org/codechef/5B4638" width="55">
+<br>
+<b>CodeChef</b>
+</a>
+
+</td>
+
+<td align="center" width="180">
+
+<a href="https://www.geeksforgeeks.org/profile/annimeshkumar">
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55">
+<br>
+<b>GeeksForGeeks</b>
+</a>
+
+</td>
+</tr>
+</table>
+
+<p>
+<code>DSA</code> &nbsp; <code>Algorithms</code> &nbsp; <code>Problem Solving</code> &nbsp; <code>Contests</code>
+</p>
 
 </div>
-
 ---
