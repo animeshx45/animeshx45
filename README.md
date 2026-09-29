@@ -1,23 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:052E16,100:22C55E&height=190&section=header&text=ANIMESH%20KUMAR&fontSize=52&fontColor=ECFDF5&fontAlignY=38&desc=JAVA%20DEVELOPER%20%7C%20DSA%20ENTHUSIAST&descSize=17&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:2a1200,100:ff7a00&height=170&section=header&text=ANIMESH%20KUMAR&fontSize=50&fontColor=fff7ed&fontAlignY=38&desc=JAVA%20DEVELOPER%20%7C%20DSA%20ENTHUSIAST&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
-### `B.Tech Information Technology @ NIT Srinagar`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=FF8C00&center=true&vCenter=true&width=650&height=35&lines=Building+Clean+%26+Efficient+Code;Java+Developer+%7C+DSA+Enthusiast;Solving+Problems+Every+Day;Exploring+Backend+Development;Learning+Spring+Boot;Turning+Ideas+Into+Projects" />
 
-`Java` &nbsp;•&nbsp; `DSA` &nbsp;•&nbsp; `Backend` &nbsp;•&nbsp; `Problem Solving`
+<br>
+
+`JAVA` &nbsp;•&nbsp; `DSA` &nbsp;•&nbsp; `BACKEND` &nbsp;•&nbsp; `PROBLEM SOLVING`
 
 <br>
 
 <a href="https://github.com/animeshx45">
-<img src="https://img.shields.io/badge/GITHUB-0B0F0D?style=for-the-badge&logo=github&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=FF8C00"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/animesh-kumar-771b60228">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0F0D?style=for-the-badge&logo=linkedin&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF8C00"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/annimesh_nits">
-<img src="https://img.shields.io/badge/LEETCODE-0B0F0D?style=for-the-badge&logo=leetcode&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/LEETCODE-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FF8C00"/>
 </a>
 
 </div>
