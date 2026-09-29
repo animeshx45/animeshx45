@@ -1,44 +1,211 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:031f14,100:22c55e&height=180&section=header&text=ANIMESH%20KUMAR&fontSize=52&fontColor=f0fdf4&fontAlignY=38&desc=JAVA%20DEVELOPER%20%20%7C%20%20DSA%20ENTHUSIAST&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:052E16,100:22C55E&height=190&section=header&text=ANIMESH%20KUMAR&fontSize=52&fontColor=ECFDF5&fontAlignY=38&desc=JAVA%20DEVELOPER%20%7C%20DSA%20ENTHUSIAST&descSize=17&descAlignY=60" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Building+clean+and+efficient+software;Solving+problems+with+Java+%26+DSA;Exploring+Backend+Development;Learning.+Building.+Improving." />
+### `B.Tech Information Technology @ NIT Srinagar`
 
-<br><br>
+`Java` &nbsp;•&nbsp; `DSA` &nbsp;•&nbsp; `Backend` &nbsp;•&nbsp; `Problem Solving`
+
+<br>
 
 <a href="https://github.com/animeshx45">
-<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/GITHUB-0B0F0D?style=for-the-badge&logo=github&logoColor=22C55E"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/animesh-kumar-771b60228">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B0F0D?style=for-the-badge&logo=linkedin&logoColor=22C55E"/>
 </a>
 &nbsp;
 <a href="https://leetcode.com/annimesh_nits">
-<img src="https://img.shields.io/badge/LEETCODE-0A0A0A?style=flat-square&logo=leetcode&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/LEETCODE-0B0F0D?style=for-the-badge&logo=leetcode&logoColor=22C55E"/>
 </a>
 
 </div>
 
 <br>
 
-<table>
+---
+
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-## `hello_world();`
+<h2>👋 About Me</h2>
 
-```java
-public class Animesh {
+<p>
+I'm a <b>B.Tech Information Technology student at NIT Srinagar</b>
+focused on Java, Data Structures & Algorithms and backend development.
+</p>
 
-    String education = "B.Tech IT";
-    String college = "NIT Srinagar";
+<p>
+I enjoy solving programming problems, building practical projects
+and learning how modern software systems work.
+</p>
 
-    String focus =
-        "Java + DSA + Backend";
+<br>
 
-    String mindset =
-        "Build. Solve. Improve.";
+<table width="100%">
+<tr>
+<td><b>🎓 Education</b></td>
+<td>B.Tech IT · NIT Srinagar</td>
+</tr>
+<tr>
+<td><b>☕ Primary Language</b></td>
+<td>Java</td>
+</tr>
+<tr>
+<td><b>🧠 Focus</b></td>
+<td>DSA & Problem Solving</td>
+</tr>
+<tr>
+<td><b>🌐 Development</b></td>
+<td>Backend & REST APIs</td>
+</tr>
+</table>
 
-}
+</td>
+
+<td width="50%" valign="top">
+
+<h2>⚡ Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,mysql,git,github,vscode,idea&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Structures-22C55E?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Algorithms-22C55E?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/OOP-22C55E?style=flat-square&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-22C55E?style=flat-square&logoColor=000000"/>
+
+</div>
+
+<br>
+
+<h3>Currently Learning</h3>
+
+<code>Spring Boot</code>
+<code>REST APIs</code>
+<code>Dynamic Programming</code>
+<code>Graph Algorithms</code>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🚀 Projects
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+### ⚡ WriteRight
+
+Chrome extension for rewriting and improving text.
+
+<br>
+
+`JavaScript`  
+`Chrome Extension`
+
+<br><br>
+
+<a href="https://github.com/animeshx45/WriteRight-A-Chrome-extension">
+<b>VIEW PROJECT →</b>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌦️ WeatherGPT
+
+Conversational AI platform for weather forecasting and climate information.
+
+<br>
+
+`AI`  
+`Weather`  
+`Data`
+
+<br><br>
+
+<a href="https://github.com/animeshx45">
+<b>VIEW PROJECT →</b>
+</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 DSA Solutions
+
+Solutions to programming and competitive programming problems.
+
+<br>
+
+`Java`  
+`DSA`  
+`Algorithms`
+
+<br><br>
+
+<a href="https://github.com/animeshx45">
+<b>VIEW PROJECT →</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧠 Problem Solving
+
+<a href="https://leetcode.com/annimesh_nits">
+<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=22C55E"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/annimeshkumar">
+<img src="https://img.shields.io/badge/GeeksForGeeks-111111?style=for-the-badge&logo=geeksforgeeks&logoColor=22C55E"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/animeshx45">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=22C55E"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🎯 Current Focus</h2>
+
+```text
+DSA & Algorithms       ████████████████░░
+Java Development       ███████████████░░░
+Backend Development    ████████████░░░░░░
+Spring Boot            █████████░░░░░░░░░
+Open Source            ███████░░░░░░░░░░░
