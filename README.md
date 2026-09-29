@@ -100,41 +100,36 @@ and learning how modern software systems work.
 <br>
 
 ---
+---
 
 <div align="center">
 
 ## 🧠 DSA & Competitive Programming
 
-<p>
-Platforms where I practice <b>Data Structures, Algorithms & Competitive Programming</b>
-</p>
+`Data Structures` · `Algorithms` · `Competitive Programming`
 
 <br>
 
 <a href="https://leetcode.com/annimesh_nits">
-<img src="https://img.shields.io/badge/LeetCode-050805?style=for-the-badge&logo=leetcode&logoColor=00FF66&labelColor=050805"/>
+<img src="https://img.shields.io/badge/LEETCODE-050805?style=for-the-badge&logo=leetcode&logoColor=00FF66"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-050805?style=for-the-badge&logo=codeforces&logoColor=00FF66&labelColor=050805"/>
+<img src="https://img.shields.io/badge/CODEFORCES-050805?style=for-the-badge&logo=codeforces&logoColor=00FF66"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-050805?style=for-the-badge&logo=codechef&logoColor=00FF66&labelColor=050805"/>
+<img src="https://img.shields.io/badge/CODECHEF-050805?style=for-the-badge&logo=codechef&logoColor=00FF66"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://www.geeksforgeeks.org/profile/annimeshkumar">
-<img src="https://img.shields.io/badge/GeeksForGeeks-050805?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF66&labelColor=050805"/>
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-050805?style=for-the-badge&logo=geeksforgeeks&logoColor=00FF66"/>
 </a>
 
-<br><br>
+<br>
 
-`PROBLEM SOLVING` &nbsp;•&nbsp; `CONTESTS` &nbsp;•&nbsp; `DSA` &nbsp;•&nbsp; `ALGORITHMS`
+`PROBLEM SOLVING` · `CONTESTS` · `DSA` · `ALGORITHMS`
 
 </div>
+
+---
