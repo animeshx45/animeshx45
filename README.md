@@ -1,116 +1,67 @@
-<div align="center">
+# Animesh Kumar
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=header" width="100%"/>
+**B.Tech Information Technology | NIT Srinagar**
 
-</div>
+I am a Java developer and DSA enthusiast interested in building software, solving problems, and learning backend development.
 
-<table>
-<tr>
+## About Me
 
-<!-- ================= LEFT SIDEBAR ================= -->
+- 🎓 B.Tech Information Technology at NIT Srinagar
+- ☕ Java Developer
+- 🧠 Data Structures & Algorithms
+- 💻 Competitive Programming
+- 🌐 Backend Development
+- 🌱 Currently learning Spring Boot and advanced DSA
 
-<td width="28%" valign="top">
+## Skills
 
-<div align="center">
+- Java
+- C
+- SQL
+- Data Structures & Algorithms
+- OOP
+- Git & GitHub
+- MySQL
+- Spring Boot
 
-# ANIMESH
+## Projects
 
-### KUMAR
+### WriteRight
 
-`B.Tech IT`
+A Chrome extension for rewriting and improving text.
 
-`NIT Srinagar`
+### WeatherGPT
 
-<br>
+A conversational AI project for weather forecasting and climate information.
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="55"/>
+### DSA Solutions
 
-### Java Developer
+Solutions to programming and competitive programming problems.
 
-`DSA Enthusiast`
+## Profiles
 
-`Competitive Programmer`
+- [GitHub](https://github.com/animeshx45)
+- [LinkedIn](https://linkedin.com/in/animesh-kumar-771b60228)
+- [LeetCode](https://leetcode.com/annimesh_nits)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/profile/annimeshkumar)
 
-<br>
+## Currently Learning
 
-<a href="https://github.com/animeshx45">
-<img src="https://img.shields.io/badge/FOLLOW-22C55E?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
+- Advanced DSA
+- Dynamic Programming
+- Graph Algorithms
+- Spring Boot
+- REST APIs
+- Backend Development
 
-</div>
+## Goals
 
----
-
-### ◈ PROFILE
-
-**🎓 Education**
-
-B.Tech Information Technology  
-NIT Srinagar
-
-**📍 Location**
-
-Srinagar, India
-
-**💻 Focus**
-
-Java · DSA · Backend
-
-**🌱 Learning**
-
-Spring Boot · REST APIs
-
----
-
-### ◈ SOCIAL
-
-<a href="https://linkedin.com/in/animesh-kumar-771b60228">
-
-`LinkedIn`
-
-</a>
-
-<a href="https://leetcode.com/annimesh_nits">
-
-`LeetCode`
-
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/annimeshkumar">
-
-`GeeksForGeeks`
-
-</a>
-
-<a href="https://instagram.com/annimesh.kumar">
-
-`Instagram`
-
-</a>
-
-<a href="mailto:rajuranjanxbkj@gmail.com">
-
-`Email`
-
-</a>
+- Improve problem-solving skills
+- Build real-world projects
+- Contribute to open source
+- Become a better backend developer
+- Prepare for software engineering internships
 
 ---
 
-### ◈ STATS
-
-| | |
-|---|---:|
-| Repositories | **103** |
-| Followers | **1.2K** |
-| Stars | **905** |
-
----
-
-### ◈ CURRENT STATUS
-
-```text
-● DSA
-● Java
-● Backend
-● Competitive Programming
-● Open Source
+> **Build. Solve. Learn. Repeat.**
