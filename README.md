@@ -1,83 +1,38 @@
-# Animesh Kumar
+<div align="center">
 
-**B.Tech IT @ NIT Srinagar** · **Java Developer** · **DSA Enthusiast**
+# ANIMESH KUMAR
 
-I build software, solve problems, and explore backend development.
+### `B.Tech IT @ NIT Srinagar` · `Java Developer` · `DSA Enthusiast`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+%26+Competitive+Programming;Backend+Development;Building+Clean+%26+Efficient+Code;Always+Learning+Something+New" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-## About Me
+<img src="https://komarev.com/ghpvc/?username=animeshx45&style=flat-square&color=22C55E&label=PROFILE+VIEWS"/>
 
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech IT — NIT Srinagar |
-| ☕ **Focus** | Java · DSA · Competitive Programming |
-| 🌐 **Learning** | Spring Boot · REST APIs |
-| 🌱 **Interests** | Software · Problem Solving |
+<br><br>
 
-</td>
+`JAVA` · `DSA` · `BACKEND` · `PROBLEM SOLVING`
 
-<td width="50%" valign="top">
-
-## Tech Stack
-
-`Java` `C` `SQL`  
-`MySQL` `OOP` `DSA`  
-`Git` `GitHub` `Spring Boot`
-
-### Currently Learning
-
-**Advanced DSA** · **Dynamic Programming**  
-**Graph Algorithms** · **Spring Boot**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## Projects
-
-**WriteRight**  
-Chrome extension for rewriting and improving text.
-
-**WeatherGPT**  
-AI-powered conversational weather platform.
-
-**DSA Solutions**  
-DSA and competitive programming solutions.
-
-</td>
-
-<td width="50%" valign="top">
-
-## Profiles
-
-[GitHub](https://github.com/animeshx45)
-
-[LinkedIn](https://linkedin.com/in/animesh-kumar-771b60228)
-
-[LeetCode](https://leetcode.com/annimesh_nits)
-
-[GeeksForGeeks](https://www.geeksforgeeks.org/profile/annimeshkumar)
-
-### Goals
-
-Build real-world projects · Improve DSA  
-Learn backend development · Open Source
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
-**Build · Solve · Learn · Repeat**
-
-</div>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   $ whoami                                                  │
+│   Animesh Kumar                                             │
+│                                                             │
+│   $ education                                               │
+│   B.Tech Information Technology — NIT Srinagar             │
+│                                                             │
+│   $ current_focus                                           │
+│   Java • DSA • Backend Development                          │
+│                                                             │
+│   $ status                                                  │
+│   Learning • Building • Solving                             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
